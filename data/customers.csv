@@ -1,0 +1,1001 @@
+customer_id,age,gender,city,device
+1,21,Male,New York,Desktop
+2,28,Female,LA,Mobile
+3,56,Male,Chicago,Mobile
+4,45,Female,Chicago,Desktop
+5,52,Female,Chicago,Desktop
+6,20,Male,LA,Desktop
+7,38,Female,LA,Mobile
+8,53,Male,New York,Mobile
+9,19,Male,LA,Mobile
+10,26,Female,Chicago,Mobile
+11,46,Female,Chicago,Desktop
+12,68,Female,LA,Desktop
+13,28,Female,Chicago,Desktop
+14,59,Male,LA,Desktop
+15,49,Female,Chicago,Desktop
+16,47,Female,Chicago,Desktop
+17,49,Male,LA,Mobile
+18,57,Female,LA,Desktop
+19,37,Female,LA,Mobile
+20,49,Female,Chicago,Mobile
+21,68,Female,Chicago,Mobile
+22,70,Male,Chicago,Mobile
+23,21,Male,LA,Mobile
+24,61,Male,Chicago,Mobile
+25,35,Male,New York,Mobile
+26,45,Male,New York,Desktop
+27,41,Male,New York,Mobile
+28,23,Male,New York,Mobile
+29,20,Male,LA,Desktop
+30,26,Male,Chicago,Mobile
+31,51,Male,LA,Mobile
+32,68,Male,New York,Mobile
+33,18,Female,Chicago,Mobile
+34,36,Female,LA,Mobile
+35,37,Female,Chicago,Mobile
+36,34,Female,Chicago,Mobile
+37,48,Male,New York,Desktop
+38,24,Male,LA,Mobile
+39,51,Female,LA,Desktop
+40,27,Female,LA,Desktop
+41,56,Female,Chicago,Mobile
+42,62,Male,Chicago,Mobile
+43,34,Male,New York,Mobile
+44,28,Male,LA,Mobile
+45,50,Male,New York,Mobile
+46,63,Female,New York,Desktop
+47,23,Male,Chicago,Desktop
+48,34,Female,LA,Mobile
+49,27,Male,LA,Desktop
+50,28,Male,Chicago,Mobile
+51,33,Male,New York,Mobile
+52,29,Male,New York,Mobile
+53,19,Female,LA,Desktop
+54,52,Female,New York,Mobile
+55,64,Female,LA,Mobile
+56,55,Male,LA,Mobile
+57,24,Female,LA,Mobile
+58,51,Male,Chicago,Desktop
+59,36,Female,LA,Mobile
+60,61,Female,New York,Mobile
+61,37,Male,Chicago,Mobile
+62,69,Female,New York,Desktop
+63,58,Female,LA,Mobile
+64,55,Male,New York,Desktop
+65,19,Female,LA,Mobile
+66,32,Female,New York,Mobile
+67,54,Female,LA,Desktop
+68,26,Female,LA,Mobile
+69,34,Male,New York,Mobile
+70,57,Female,Chicago,Desktop
+71,31,Male,New York,Desktop
+72,67,Male,Chicago,Desktop
+73,36,Female,LA,Mobile
+74,69,Female,LA,Desktop
+75,51,Female,Chicago,Desktop
+76,49,Female,LA,Mobile
+77,28,Female,Chicago,Desktop
+78,53,Female,Chicago,Mobile
+79,55,Male,New York,Desktop
+80,29,Male,LA,Mobile
+81,69,Male,Chicago,Mobile
+82,26,Female,LA,Mobile
+83,63,Female,LA,Mobile
+84,51,Female,New York,Mobile
+85,52,Female,New York,Desktop
+86,51,Male,Chicago,Desktop
+87,28,Male,LA,Mobile
+88,43,Female,Chicago,Mobile
+89,47,Female,Chicago,Mobile
+90,69,Female,Chicago,Mobile
+91,43,Male,LA,Desktop
+92,43,Female,Chicago,Desktop
+93,63,Female,LA,Desktop
+94,63,Male,Chicago,Mobile
+95,52,Male,LA,Desktop
+96,58,Male,LA,Desktop
+97,51,Female,Chicago,Mobile
+98,70,Male,New York,Desktop
+99,31,Female,New York,Mobile
+100,42,Male,LA,Mobile
+101,49,Male,New York,Desktop
+102,48,Female,Chicago,Mobile
+103,47,Male,New York,Desktop
+104,18,Female,Chicago,Mobile
+105,66,Female,Chicago,Desktop
+106,47,Female,Chicago,Desktop
+107,19,Male,Chicago,Desktop
+108,29,Female,LA,Mobile
+109,21,Male,LA,Desktop
+110,47,Female,New York,Mobile
+111,36,Female,New York,Desktop
+112,20,Female,Chicago,Desktop
+113,31,Female,LA,Mobile
+114,48,Female,New York,Desktop
+115,70,Female,LA,Desktop
+116,59,Female,Chicago,Desktop
+117,51,Male,Chicago,Mobile
+118,43,Male,Chicago,Mobile
+119,37,Male,New York,Desktop
+120,53,Male,Chicago,Desktop
+121,21,Male,New York,Desktop
+122,41,Male,LA,Desktop
+123,22,Female,LA,Desktop
+124,28,Female,LA,Desktop
+125,47,Male,Chicago,Desktop
+126,58,Male,LA,Desktop
+127,28,Male,New York,Desktop
+128,30,Female,New York,Desktop
+129,26,Male,New York,Desktop
+130,69,Female,LA,Desktop
+131,35,Female,Chicago,Desktop
+132,66,Female,Chicago,Mobile
+133,41,Female,LA,Desktop
+134,29,Female,LA,Desktop
+135,48,Male,New York,Desktop
+136,42,Male,New York,Mobile
+137,40,Male,LA,Mobile
+138,64,Female,New York,Desktop
+139,33,Female,Chicago,Desktop
+140,48,Male,LA,Desktop
+141,30,Female,New York,Mobile
+142,68,Male,LA,Desktop
+143,27,Female,LA,Desktop
+144,23,Female,New York,Mobile
+145,63,Male,Chicago,Mobile
+146,39,Female,Chicago,Mobile
+147,27,Male,New York,Desktop
+148,46,Female,New York,Desktop
+149,51,Male,LA,Desktop
+150,32,Male,LA,Desktop
+151,49,Female,Chicago,Mobile
+152,55,Female,LA,Desktop
+153,28,Female,LA,Desktop
+154,20,Male,LA,Mobile
+155,25,Male,New York,Desktop
+156,37,Female,Chicago,Mobile
+157,34,Male,Chicago,Desktop
+158,32,Male,New York,Mobile
+159,45,Male,LA,Desktop
+160,21,Female,New York,Mobile
+161,48,Male,Chicago,Mobile
+162,26,Male,New York,Mobile
+163,52,Male,Chicago,Desktop
+164,61,Male,New York,Desktop
+165,49,Male,New York,Mobile
+166,33,Male,LA,Mobile
+167,69,Male,Chicago,Mobile
+168,58,Female,LA,Desktop
+169,63,Male,Chicago,Mobile
+170,70,Male,Chicago,Mobile
+171,29,Female,New York,Desktop
+172,39,Female,New York,Desktop
+173,26,Female,LA,Desktop
+174,69,Male,Chicago,Mobile
+175,48,Female,LA,Desktop
+176,35,Male,LA,Mobile
+177,62,Male,New York,Mobile
+178,31,Male,LA,Mobile
+179,59,Male,Chicago,Mobile
+180,65,Female,Chicago,Desktop
+181,52,Male,Chicago,Mobile
+182,27,Female,New York,Mobile
+183,24,Male,Chicago,Mobile
+184,66,Male,Chicago,Desktop
+185,58,Female,New York,Mobile
+186,70,Female,Chicago,Desktop
+187,51,Male,LA,Desktop
+188,60,Male,LA,Desktop
+189,60,Male,Chicago,Desktop
+190,19,Male,LA,Desktop
+191,34,Female,Chicago,Mobile
+192,45,Male,Chicago,Mobile
+193,68,Female,LA,Desktop
+194,42,Female,Chicago,Desktop
+195,57,Male,Chicago,Desktop
+196,46,Male,LA,Desktop
+197,37,Male,New York,Desktop
+198,56,Female,New York,Mobile
+199,61,Female,New York,Desktop
+200,24,Male,New York,Mobile
+201,38,Male,LA,Desktop
+202,68,Female,LA,Mobile
+203,44,Female,Chicago,Mobile
+204,36,Male,New York,Mobile
+205,28,Female,Chicago,Mobile
+206,58,Female,LA,Mobile
+207,49,Female,New York,Mobile
+208,54,Female,New York,Mobile
+209,57,Female,Chicago,Desktop
+210,51,Female,New York,Mobile
+211,53,Male,LA,Mobile
+212,26,Female,LA,Mobile
+213,47,Female,LA,Desktop
+214,42,Female,New York,Mobile
+215,32,Male,Chicago,Mobile
+216,56,Male,New York,Desktop
+217,63,Female,LA,Mobile
+218,50,Female,New York,Desktop
+219,50,Female,Chicago,Desktop
+220,55,Male,Chicago,Desktop
+221,65,Male,LA,Mobile
+222,19,Female,New York,Mobile
+223,59,Male,New York,Desktop
+224,33,Male,Chicago,Mobile
+225,59,Female,New York,Mobile
+226,61,Male,LA,Mobile
+227,20,Female,Chicago,Desktop
+228,48,Male,Chicago,Desktop
+229,66,Female,Chicago,Mobile
+230,56,Female,New York,Desktop
+231,41,Female,LA,Desktop
+232,50,Male,New York,Mobile
+233,39,Female,Chicago,Mobile
+234,40,Male,Chicago,Mobile
+235,62,Female,LA,Desktop
+236,33,Male,New York,Mobile
+237,19,Female,Chicago,Mobile
+238,36,Male,New York,Mobile
+239,54,Male,LA,Mobile
+240,41,Male,Chicago,Mobile
+241,33,Male,Chicago,Mobile
+242,24,Male,Chicago,Desktop
+243,23,Female,Chicago,Mobile
+244,21,Female,LA,Mobile
+245,27,Female,New York,Desktop
+246,65,Female,New York,Mobile
+247,51,Female,LA,Desktop
+248,28,Female,Chicago,Mobile
+249,40,Male,New York,Desktop
+250,63,Male,New York,Desktop
+251,54,Female,LA,Desktop
+252,47,Male,LA,Desktop
+253,35,Male,LA,Mobile
+254,70,Female,Chicago,Mobile
+255,45,Female,New York,Desktop
+256,54,Female,Chicago,Desktop
+257,33,Female,Chicago,Desktop
+258,41,Female,Chicago,Mobile
+259,53,Male,LA,Desktop
+260,66,Female,LA,Mobile
+261,50,Male,Chicago,Desktop
+262,25,Female,Chicago,Desktop
+263,57,Female,New York,Desktop
+264,46,Female,Chicago,Desktop
+265,28,Male,New York,Mobile
+266,44,Female,LA,Mobile
+267,44,Female,LA,Desktop
+268,37,Female,Chicago,Desktop
+269,60,Male,LA,Mobile
+270,31,Female,New York,Mobile
+271,18,Female,LA,Desktop
+272,64,Female,New York,Desktop
+273,68,Male,Chicago,Desktop
+274,43,Male,LA,Mobile
+275,56,Male,LA,Mobile
+276,37,Female,New York,Mobile
+277,18,Female,LA,Desktop
+278,59,Male,LA,Mobile
+279,32,Female,New York,Desktop
+280,37,Female,Chicago,Desktop
+281,47,Female,New York,Mobile
+282,54,Female,New York,Desktop
+283,41,Male,New York,Mobile
+284,31,Female,New York,Desktop
+285,35,Male,Chicago,Mobile
+286,18,Female,LA,Desktop
+287,59,Male,Chicago,Mobile
+288,64,Male,LA,Mobile
+289,68,Male,New York,Mobile
+290,18,Male,LA,Mobile
+291,65,Male,LA,Desktop
+292,57,Male,New York,Desktop
+293,25,Female,New York,Desktop
+294,48,Female,New York,Mobile
+295,47,Male,New York,Desktop
+296,59,Male,LA,Mobile
+297,48,Male,Chicago,Desktop
+298,36,Male,Chicago,Mobile
+299,22,Female,New York,Mobile
+300,55,Female,LA,Mobile
+301,20,Female,LA,Mobile
+302,27,Male,Chicago,Desktop
+303,58,Female,Chicago,Mobile
+304,30,Male,New York,Mobile
+305,38,Male,LA,Mobile
+306,41,Male,Chicago,Mobile
+307,40,Male,LA,Mobile
+308,37,Male,New York,Desktop
+309,58,Male,Chicago,Mobile
+310,52,Male,New York,Desktop
+311,44,Female,LA,Desktop
+312,37,Male,Chicago,Mobile
+313,65,Male,New York,Mobile
+314,27,Female,Chicago,Mobile
+315,37,Male,New York,Mobile
+316,54,Male,LA,Mobile
+317,29,Female,New York,Desktop
+318,59,Male,LA,Desktop
+319,49,Female,New York,Mobile
+320,60,Male,New York,Desktop
+321,27,Female,Chicago,Mobile
+322,58,Female,Chicago,Mobile
+323,23,Male,New York,Mobile
+324,52,Female,New York,Mobile
+325,33,Female,Chicago,Desktop
+326,47,Male,LA,Mobile
+327,21,Female,New York,Desktop
+328,19,Male,Chicago,Desktop
+329,40,Male,LA,Desktop
+330,32,Male,New York,Mobile
+331,26,Male,LA,Mobile
+332,24,Female,LA,Desktop
+333,18,Male,LA,Mobile
+334,62,Male,New York,Mobile
+335,45,Male,New York,Desktop
+336,70,Female,New York,Mobile
+337,35,Female,LA,Mobile
+338,51,Female,LA,Desktop
+339,49,Female,LA,Desktop
+340,43,Male,Chicago,Desktop
+341,36,Female,Chicago,Desktop
+342,54,Female,Chicago,Mobile
+343,54,Male,LA,Desktop
+344,55,Female,Chicago,Mobile
+345,50,Female,Chicago,Desktop
+346,28,Male,LA,Mobile
+347,65,Male,New York,Desktop
+348,26,Male,Chicago,Desktop
+349,70,Male,New York,Desktop
+350,70,Female,New York,Mobile
+351,65,Female,Chicago,Mobile
+352,32,Male,LA,Mobile
+353,43,Female,New York,Mobile
+354,64,Female,New York,Mobile
+355,54,Male,Chicago,Desktop
+356,53,Female,Chicago,Desktop
+357,28,Male,Chicago,Desktop
+358,50,Male,New York,Desktop
+359,30,Female,LA,Mobile
+360,47,Female,New York,Desktop
+361,21,Male,LA,Desktop
+362,65,Female,LA,Desktop
+363,21,Female,New York,Desktop
+364,59,Male,New York,Desktop
+365,62,Female,New York,Desktop
+366,62,Female,New York,Mobile
+367,66,Male,LA,Mobile
+368,52,Male,New York,Mobile
+369,41,Male,Chicago,Desktop
+370,45,Female,New York,Mobile
+371,22,Male,New York,Mobile
+372,27,Male,LA,Desktop
+373,25,Male,Chicago,Mobile
+374,40,Female,New York,Desktop
+375,60,Male,LA,Mobile
+376,33,Male,New York,Desktop
+377,52,Male,Chicago,Desktop
+378,24,Male,Chicago,Mobile
+379,21,Male,Chicago,Mobile
+380,61,Male,Chicago,Mobile
+381,28,Male,Chicago,Mobile
+382,59,Male,LA,Desktop
+383,62,Male,Chicago,Mobile
+384,58,Male,Chicago,Mobile
+385,24,Female,LA,Mobile
+386,31,Male,LA,Desktop
+387,18,Male,New York,Desktop
+388,59,Female,LA,Desktop
+389,60,Male,LA,Mobile
+390,48,Male,Chicago,Desktop
+391,36,Female,Chicago,Desktop
+392,59,Male,Chicago,Mobile
+393,59,Male,Chicago,Mobile
+394,22,Female,New York,Mobile
+395,48,Male,New York,Desktop
+396,30,Female,LA,Mobile
+397,45,Male,New York,Desktop
+398,39,Female,LA,Mobile
+399,33,Female,LA,Desktop
+400,18,Male,New York,Mobile
+401,31,Female,New York,Desktop
+402,50,Male,New York,Mobile
+403,22,Male,New York,Mobile
+404,42,Male,LA,Desktop
+405,58,Male,Chicago,Mobile
+406,29,Male,New York,Mobile
+407,23,Female,Chicago,Desktop
+408,25,Male,Chicago,Desktop
+409,30,Male,New York,Mobile
+410,18,Male,Chicago,Desktop
+411,47,Male,Chicago,Mobile
+412,32,Female,Chicago,Mobile
+413,33,Female,New York,Mobile
+414,30,Male,LA,Desktop
+415,49,Male,LA,Mobile
+416,38,Female,New York,Mobile
+417,30,Female,LA,Mobile
+418,49,Female,Chicago,Desktop
+419,63,Male,LA,Mobile
+420,45,Female,Chicago,Mobile
+421,69,Female,Chicago,Mobile
+422,68,Female,LA,Mobile
+423,46,Female,LA,Desktop
+424,33,Male,Chicago,Mobile
+425,25,Male,LA,Mobile
+426,42,Female,Chicago,Mobile
+427,61,Male,Chicago,Mobile
+428,21,Male,New York,Desktop
+429,52,Male,New York,Desktop
+430,40,Male,Chicago,Desktop
+431,53,Male,New York,Desktop
+432,36,Male,New York,Mobile
+433,67,Female,New York,Mobile
+434,70,Male,Chicago,Desktop
+435,51,Female,LA,Mobile
+436,20,Female,LA,Mobile
+437,70,Female,New York,Desktop
+438,47,Male,Chicago,Mobile
+439,37,Male,Chicago,Mobile
+440,51,Male,New York,Desktop
+441,64,Male,Chicago,Desktop
+442,58,Female,LA,Mobile
+443,22,Male,New York,Desktop
+444,63,Female,New York,Mobile
+445,56,Male,New York,Desktop
+446,21,Male,Chicago,Desktop
+447,43,Male,Chicago,Mobile
+448,56,Female,New York,Desktop
+449,28,Male,New York,Desktop
+450,69,Female,LA,Desktop
+451,64,Female,LA,Mobile
+452,39,Male,Chicago,Mobile
+453,65,Male,LA,Desktop
+454,44,Female,Chicago,Desktop
+455,44,Male,LA,Mobile
+456,19,Male,Chicago,Desktop
+457,31,Male,New York,Desktop
+458,36,Female,New York,Mobile
+459,39,Female,New York,Mobile
+460,34,Female,LA,Desktop
+461,36,Female,Chicago,Desktop
+462,45,Female,New York,Desktop
+463,23,Male,New York,Desktop
+464,43,Female,Chicago,Mobile
+465,65,Female,LA,Desktop
+466,57,Female,LA,Mobile
+467,53,Female,Chicago,Desktop
+468,58,Female,Chicago,Mobile
+469,56,Male,New York,Mobile
+470,61,Female,Chicago,Mobile
+471,36,Male,Chicago,Desktop
+472,67,Female,LA,Mobile
+473,70,Female,Chicago,Desktop
+474,56,Female,LA,Desktop
+475,18,Female,New York,Desktop
+476,18,Male,New York,Mobile
+477,29,Female,LA,Mobile
+478,66,Female,LA,Mobile
+479,19,Male,New York,Mobile
+480,44,Male,LA,Desktop
+481,26,Female,New York,Desktop
+482,20,Female,LA,Desktop
+483,22,Male,LA,Mobile
+484,62,Female,LA,Desktop
+485,63,Female,Chicago,Mobile
+486,45,Female,New York,Desktop
+487,58,Female,New York,Desktop
+488,42,Male,LA,Desktop
+489,37,Female,New York,Desktop
+490,21,Male,New York,Mobile
+491,28,Female,LA,Mobile
+492,59,Male,Chicago,Mobile
+493,24,Female,Chicago,Desktop
+494,39,Male,New York,Mobile
+495,25,Female,Chicago,Desktop
+496,66,Female,LA,Desktop
+497,36,Male,LA,Desktop
+498,19,Female,Chicago,Desktop
+499,29,Male,Chicago,Desktop
+500,51,Female,LA,Desktop
+501,26,Female,LA,Desktop
+502,61,Male,New York,Desktop
+503,62,Male,Chicago,Desktop
+504,39,Male,LA,Mobile
+505,67,Female,Chicago,Mobile
+506,58,Male,New York,Desktop
+507,18,Male,New York,Mobile
+508,53,Female,New York,Desktop
+509,29,Female,LA,Desktop
+510,27,Male,Chicago,Desktop
+511,69,Male,LA,Mobile
+512,29,Male,Chicago,Mobile
+513,47,Male,LA,Mobile
+514,23,Female,New York,Mobile
+515,35,Female,New York,Mobile
+516,30,Female,New York,Desktop
+517,54,Male,LA,Mobile
+518,22,Male,Chicago,Mobile
+519,41,Male,New York,Desktop
+520,62,Female,LA,Desktop
+521,29,Female,Chicago,Desktop
+522,52,Male,New York,Mobile
+523,39,Male,New York,Mobile
+524,33,Female,Chicago,Desktop
+525,36,Male,Chicago,Desktop
+526,60,Male,LA,Desktop
+527,26,Female,LA,Mobile
+528,27,Female,Chicago,Desktop
+529,20,Female,LA,Desktop
+530,66,Male,New York,Desktop
+531,47,Female,Chicago,Mobile
+532,68,Male,New York,Desktop
+533,43,Female,Chicago,Desktop
+534,56,Female,Chicago,Desktop
+535,55,Female,LA,Mobile
+536,68,Male,New York,Mobile
+537,58,Male,New York,Mobile
+538,21,Female,New York,Desktop
+539,52,Female,New York,Desktop
+540,42,Male,New York,Mobile
+541,43,Female,Chicago,Mobile
+542,29,Female,New York,Mobile
+543,25,Male,New York,Mobile
+544,62,Male,New York,Desktop
+545,20,Male,LA,Mobile
+546,50,Male,LA,Mobile
+547,51,Female,New York,Mobile
+548,53,Male,Chicago,Mobile
+549,62,Female,New York,Desktop
+550,37,Female,Chicago,Mobile
+551,29,Male,New York,Desktop
+552,19,Female,Chicago,Mobile
+553,66,Female,New York,Mobile
+554,42,Female,Chicago,Desktop
+555,24,Male,LA,Mobile
+556,56,Male,New York,Mobile
+557,48,Female,LA,Desktop
+558,48,Female,LA,Mobile
+559,57,Female,Chicago,Desktop
+560,37,Male,New York,Mobile
+561,70,Female,Chicago,Mobile
+562,38,Male,LA,Mobile
+563,31,Male,LA,Desktop
+564,59,Male,New York,Desktop
+565,57,Male,New York,Mobile
+566,54,Male,New York,Desktop
+567,55,Male,Chicago,Mobile
+568,42,Female,New York,Desktop
+569,49,Female,New York,Mobile
+570,66,Male,LA,Desktop
+571,62,Female,New York,Desktop
+572,39,Male,LA,Desktop
+573,31,Male,New York,Desktop
+574,50,Female,Chicago,Mobile
+575,61,Male,Chicago,Desktop
+576,41,Female,LA,Mobile
+577,27,Female,Chicago,Mobile
+578,35,Female,LA,Mobile
+579,60,Male,LA,Mobile
+580,43,Female,Chicago,Mobile
+581,50,Female,LA,Desktop
+582,34,Female,LA,Mobile
+583,37,Female,LA,Mobile
+584,22,Female,New York,Mobile
+585,70,Male,LA,Desktop
+586,51,Female,New York,Desktop
+587,65,Male,New York,Mobile
+588,18,Male,LA,Desktop
+589,19,Male,Chicago,Mobile
+590,58,Male,Chicago,Desktop
+591,55,Male,New York,Desktop
+592,31,Female,LA,Mobile
+593,27,Female,New York,Mobile
+594,34,Female,Chicago,Mobile
+595,21,Female,Chicago,Desktop
+596,42,Female,Chicago,Mobile
+597,40,Female,New York,Desktop
+598,18,Male,LA,Desktop
+599,19,Male,LA,Mobile
+600,67,Female,New York,Desktop
+601,39,Male,LA,Desktop
+602,67,Female,Chicago,Desktop
+603,35,Male,Chicago,Desktop
+604,37,Male,LA,Desktop
+605,50,Female,Chicago,Desktop
+606,60,Male,New York,Mobile
+607,37,Female,LA,Desktop
+608,22,Female,Chicago,Desktop
+609,36,Male,Chicago,Desktop
+610,37,Male,Chicago,Mobile
+611,66,Female,Chicago,Mobile
+612,66,Male,Chicago,Desktop
+613,58,Male,LA,Mobile
+614,47,Female,Chicago,Desktop
+615,39,Female,LA,Desktop
+616,18,Female,New York,Desktop
+617,65,Male,Chicago,Desktop
+618,61,Male,New York,Desktop
+619,52,Male,LA,Desktop
+620,28,Female,LA,Mobile
+621,42,Female,Chicago,Desktop
+622,21,Female,New York,Mobile
+623,53,Female,LA,Mobile
+624,64,Male,LA,Mobile
+625,41,Female,Chicago,Desktop
+626,62,Female,New York,Mobile
+627,66,Male,Chicago,Desktop
+628,54,Female,New York,Mobile
+629,45,Female,Chicago,Mobile
+630,68,Male,New York,Desktop
+631,37,Female,LA,Desktop
+632,52,Male,Chicago,Desktop
+633,23,Male,Chicago,Mobile
+634,18,Female,New York,Desktop
+635,57,Male,Chicago,Mobile
+636,68,Female,LA,Desktop
+637,57,Female,LA,Mobile
+638,64,Male,New York,Desktop
+639,53,Male,New York,Desktop
+640,48,Female,LA,Mobile
+641,64,Male,LA,Desktop
+642,44,Male,LA,Desktop
+643,30,Female,Chicago,Desktop
+644,53,Male,LA,Mobile
+645,62,Female,Chicago,Mobile
+646,41,Male,New York,Mobile
+647,61,Male,LA,Desktop
+648,46,Male,New York,Desktop
+649,18,Female,Chicago,Desktop
+650,65,Female,Chicago,Mobile
+651,30,Female,LA,Mobile
+652,30,Female,Chicago,Desktop
+653,68,Male,LA,Mobile
+654,41,Female,LA,Desktop
+655,59,Female,Chicago,Desktop
+656,67,Female,New York,Desktop
+657,28,Female,LA,Desktop
+658,25,Female,LA,Mobile
+659,64,Female,Chicago,Desktop
+660,19,Male,Chicago,Desktop
+661,54,Male,Chicago,Mobile
+662,60,Male,Chicago,Mobile
+663,23,Male,New York,Mobile
+664,64,Male,Chicago,Mobile
+665,40,Female,New York,Mobile
+666,48,Male,LA,Desktop
+667,33,Female,New York,Mobile
+668,63,Female,New York,Desktop
+669,45,Female,LA,Mobile
+670,29,Female,LA,Desktop
+671,69,Male,LA,Desktop
+672,32,Male,New York,Desktop
+673,49,Male,New York,Mobile
+674,33,Female,New York,Mobile
+675,27,Female,Chicago,Mobile
+676,40,Male,Chicago,Desktop
+677,33,Male,LA,Mobile
+678,19,Female,LA,Desktop
+679,61,Male,Chicago,Desktop
+680,65,Male,New York,Mobile
+681,31,Female,LA,Mobile
+682,39,Male,New York,Desktop
+683,43,Female,New York,Mobile
+684,52,Female,New York,Desktop
+685,27,Female,LA,Mobile
+686,28,Male,Chicago,Desktop
+687,46,Male,New York,Desktop
+688,35,Male,New York,Desktop
+689,59,Female,New York,Desktop
+690,63,Female,Chicago,Desktop
+691,66,Male,LA,Desktop
+692,36,Female,Chicago,Mobile
+693,60,Female,LA,Desktop
+694,21,Female,New York,Mobile
+695,56,Female,LA,Mobile
+696,34,Female,Chicago,Mobile
+697,38,Female,New York,Mobile
+698,23,Male,LA,Mobile
+699,28,Male,LA,Desktop
+700,54,Female,Chicago,Mobile
+701,60,Female,LA,Mobile
+702,57,Male,LA,Mobile
+703,44,Male,Chicago,Desktop
+704,45,Female,Chicago,Mobile
+705,40,Female,Chicago,Mobile
+706,70,Female,Chicago,Mobile
+707,21,Female,Chicago,Desktop
+708,52,Male,LA,Mobile
+709,46,Female,New York,Desktop
+710,45,Male,New York,Mobile
+711,51,Male,New York,Mobile
+712,46,Female,Chicago,Desktop
+713,30,Male,New York,Desktop
+714,53,Female,LA,Desktop
+715,40,Female,New York,Mobile
+716,37,Female,LA,Mobile
+717,64,Female,Chicago,Mobile
+718,67,Female,Chicago,Desktop
+719,61,Male,LA,Desktop
+720,56,Female,LA,Desktop
+721,18,Female,Chicago,Desktop
+722,38,Male,LA,Mobile
+723,70,Female,New York,Mobile
+724,20,Female,Chicago,Mobile
+725,41,Female,LA,Desktop
+726,65,Male,New York,Mobile
+727,39,Male,New York,Mobile
+728,32,Male,LA,Mobile
+729,52,Male,Chicago,Mobile
+730,27,Male,Chicago,Desktop
+731,55,Male,Chicago,Mobile
+732,40,Female,Chicago,Mobile
+733,61,Female,Chicago,Mobile
+734,69,Female,New York,Mobile
+735,39,Female,Chicago,Mobile
+736,65,Male,Chicago,Mobile
+737,58,Female,New York,Desktop
+738,67,Female,LA,Mobile
+739,44,Female,New York,Desktop
+740,70,Male,New York,Mobile
+741,28,Female,LA,Desktop
+742,46,Male,New York,Desktop
+743,27,Female,LA,Mobile
+744,44,Male,LA,Mobile
+745,63,Male,New York,Mobile
+746,54,Female,LA,Mobile
+747,47,Female,LA,Desktop
+748,45,Male,New York,Mobile
+749,47,Male,LA,Desktop
+750,43,Male,LA,Desktop
+751,27,Male,LA,Mobile
+752,46,Male,LA,Desktop
+753,30,Male,Chicago,Mobile
+754,68,Female,Chicago,Desktop
+755,48,Female,Chicago,Mobile
+756,68,Male,New York,Mobile
+757,58,Female,New York,Desktop
+758,48,Female,Chicago,Desktop
+759,32,Female,Chicago,Desktop
+760,68,Female,LA,Mobile
+761,46,Female,New York,Mobile
+762,46,Female,LA,Mobile
+763,48,Male,Chicago,Mobile
+764,25,Female,LA,Desktop
+765,39,Female,New York,Mobile
+766,29,Female,Chicago,Mobile
+767,37,Female,Chicago,Desktop
+768,64,Female,LA,Mobile
+769,58,Male,Chicago,Desktop
+770,38,Male,Chicago,Mobile
+771,31,Female,Chicago,Desktop
+772,65,Male,Chicago,Desktop
+773,34,Female,New York,Mobile
+774,29,Male,Chicago,Mobile
+775,59,Female,New York,Desktop
+776,65,Male,LA,Desktop
+777,56,Female,New York,Desktop
+778,27,Female,LA,Desktop
+779,30,Female,LA,Desktop
+780,24,Female,LA,Mobile
+781,19,Female,LA,Mobile
+782,20,Male,LA,Mobile
+783,52,Female,New York,Desktop
+784,40,Male,Chicago,Desktop
+785,18,Female,LA,Desktop
+786,43,Female,LA,Desktop
+787,19,Male,New York,Desktop
+788,60,Male,LA,Desktop
+789,42,Female,Chicago,Desktop
+790,25,Female,LA,Mobile
+791,61,Female,New York,Mobile
+792,59,Female,Chicago,Desktop
+793,58,Female,New York,Desktop
+794,23,Male,LA,Mobile
+795,58,Male,New York,Mobile
+796,60,Male,New York,Mobile
+797,34,Female,New York,Desktop
+798,22,Male,LA,Desktop
+799,69,Female,New York,Desktop
+800,25,Male,New York,Mobile
+801,49,Male,LA,Desktop
+802,43,Female,Chicago,Mobile
+803,32,Female,LA,Mobile
+804,64,Female,LA,Desktop
+805,63,Male,New York,Desktop
+806,24,Male,LA,Desktop
+807,69,Female,New York,Mobile
+808,64,Male,New York,Desktop
+809,67,Male,LA,Desktop
+810,35,Male,LA,Mobile
+811,33,Male,Chicago,Mobile
+812,30,Male,New York,Desktop
+813,25,Female,Chicago,Mobile
+814,18,Female,Chicago,Mobile
+815,50,Male,Chicago,Desktop
+816,59,Female,New York,Mobile
+817,49,Female,New York,Desktop
+818,57,Male,New York,Desktop
+819,25,Female,Chicago,Desktop
+820,27,Male,New York,Mobile
+821,25,Male,LA,Desktop
+822,26,Male,New York,Mobile
+823,63,Female,Chicago,Mobile
+824,27,Male,LA,Desktop
+825,69,Female,LA,Mobile
+826,70,Female,Chicago,Mobile
+827,61,Male,LA,Mobile
+828,38,Female,LA,Desktop
+829,37,Male,LA,Desktop
+830,23,Female,New York,Desktop
+831,56,Female,Chicago,Desktop
+832,57,Female,New York,Desktop
+833,31,Male,LA,Mobile
+834,30,Female,Chicago,Mobile
+835,26,Female,LA,Desktop
+836,55,Male,LA,Mobile
+837,26,Male,LA,Mobile
+838,66,Male,Chicago,Desktop
+839,57,Male,Chicago,Desktop
+840,54,Female,LA,Desktop
+841,63,Female,Chicago,Desktop
+842,37,Female,LA,Desktop
+843,47,Male,New York,Desktop
+844,22,Male,Chicago,Mobile
+845,46,Male,New York,Desktop
+846,30,Male,New York,Mobile
+847,24,Male,New York,Desktop
+848,68,Male,Chicago,Mobile
+849,50,Female,LA,Mobile
+850,42,Male,LA,Desktop
+851,22,Female,Chicago,Mobile
+852,33,Female,LA,Mobile
+853,19,Male,LA,Mobile
+854,41,Female,Chicago,Desktop
+855,64,Female,LA,Mobile
+856,26,Male,New York,Mobile
+857,68,Female,New York,Mobile
+858,34,Female,Chicago,Desktop
+859,19,Male,New York,Mobile
+860,45,Male,New York,Mobile
+861,46,Female,New York,Desktop
+862,25,Female,LA,Desktop
+863,51,Male,LA,Mobile
+864,61,Female,New York,Mobile
+865,62,Female,LA,Mobile
+866,62,Female,New York,Mobile
+867,33,Male,LA,Desktop
+868,46,Female,New York,Mobile
+869,25,Female,Chicago,Desktop
+870,36,Female,Chicago,Desktop
+871,49,Male,New York,Mobile
+872,67,Male,LA,Desktop
+873,62,Male,New York,Desktop
+874,65,Female,LA,Mobile
+875,31,Male,Chicago,Mobile
+876,38,Female,LA,Mobile
+877,42,Female,LA,Desktop
+878,66,Female,Chicago,Desktop
+879,28,Female,New York,Desktop
+880,69,Male,Chicago,Desktop
+881,31,Male,Chicago,Mobile
+882,68,Female,LA,Mobile
+883,54,Male,New York,Desktop
+884,21,Male,LA,Mobile
+885,27,Male,LA,Desktop
+886,61,Male,Chicago,Mobile
+887,47,Male,Chicago,Desktop
+888,69,Female,New York,Mobile
+889,19,Female,New York,Desktop
+890,39,Male,LA,Desktop
+891,58,Female,Chicago,Desktop
+892,24,Male,Chicago,Desktop
+893,50,Female,Chicago,Desktop
+894,23,Female,LA,Mobile
+895,33,Male,New York,Mobile
+896,58,Male,New York,Desktop
+897,43,Female,New York,Mobile
+898,24,Male,New York,Mobile
+899,32,Female,New York,Desktop
+900,39,Male,LA,Desktop
+901,49,Female,LA,Desktop
+902,54,Female,New York,Desktop
+903,40,Female,Chicago,Mobile
+904,48,Male,New York,Mobile
+905,59,Female,Chicago,Mobile
+906,27,Female,New York,Mobile
+907,66,Female,LA,Desktop
+908,47,Female,Chicago,Mobile
+909,37,Male,LA,Desktop
+910,48,Male,Chicago,Mobile
+911,63,Male,New York,Desktop
+912,45,Female,LA,Mobile
+913,36,Female,New York,Mobile
+914,70,Male,Chicago,Mobile
+915,55,Female,Chicago,Desktop
+916,59,Female,LA,Desktop
+917,67,Male,LA,Desktop
+918,43,Female,LA,Mobile
+919,23,Male,New York,Mobile
+920,48,Male,New York,Desktop
+921,31,Female,Chicago,Mobile
+922,39,Male,New York,Mobile
+923,48,Female,Chicago,Mobile
+924,42,Female,Chicago,Desktop
+925,62,Female,New York,Desktop
+926,45,Male,Chicago,Mobile
+927,43,Male,Chicago,Mobile
+928,25,Male,New York,Desktop
+929,44,Male,New York,Mobile
+930,28,Male,New York,Desktop
+931,46,Female,New York,Desktop
+932,36,Male,LA,Mobile
+933,54,Male,New York,Mobile
+934,63,Male,Chicago,Desktop
+935,57,Female,LA,Desktop
+936,21,Male,Chicago,Desktop
+937,40,Female,New York,Desktop
+938,49,Female,Chicago,Desktop
+939,53,Male,New York,Mobile
+940,59,Male,Chicago,Desktop
+941,69,Male,Chicago,Desktop
+942,38,Female,New York,Desktop
+943,34,Female,LA,Mobile
+944,64,Female,LA,Mobile
+945,54,Male,New York,Desktop
+946,54,Male,LA,Desktop
+947,65,Female,New York,Mobile
+948,37,Female,Chicago,Mobile
+949,20,Female,New York,Mobile
+950,20,Male,New York,Desktop
+951,42,Female,Chicago,Mobile
+952,37,Female,LA,Mobile
+953,42,Female,LA,Mobile
+954,25,Male,New York,Desktop
+955,62,Male,Chicago,Desktop
+956,43,Female,LA,Desktop
+957,34,Female,Chicago,Mobile
+958,47,Female,New York,Desktop
+959,67,Female,New York,Desktop
+960,32,Male,New York,Desktop
+961,54,Female,New York,Mobile
+962,63,Male,New York,Mobile
+963,58,Female,New York,Desktop
+964,29,Female,Chicago,Mobile
+965,35,Female,Chicago,Mobile
+966,47,Female,Chicago,Desktop
+967,32,Female,LA,Desktop
+968,61,Male,Chicago,Mobile
+969,60,Male,LA,Mobile
+970,64,Male,LA,Desktop
+971,18,Female,LA,Mobile
+972,44,Male,Chicago,Desktop
+973,58,Female,Chicago,Mobile
+974,52,Male,New York,Mobile
+975,21,Female,New York,Mobile
+976,38,Female,New York,Desktop
+977,37,Male,New York,Mobile
+978,70,Female,New York,Desktop
+979,20,Female,Chicago,Desktop
+980,41,Female,LA,Mobile
+981,54,Female,New York,Mobile
+982,40,Male,LA,Mobile
+983,19,Male,Chicago,Desktop
+984,32,Male,Chicago,Desktop
+985,36,Male,Chicago,Desktop
+986,39,Male,New York,Mobile
+987,53,Female,New York,Mobile
+988,64,Male,New York,Desktop
+989,39,Female,Chicago,Mobile
+990,36,Male,LA,Mobile
+991,19,Female,New York,Desktop
+992,29,Male,New York,Desktop
+993,64,Male,LA,Mobile
+994,63,Male,New York,Desktop
+995,47,Female,Chicago,Mobile
+996,62,Female,Chicago,Desktop
+997,66,Female,New York,Desktop
+998,21,Male,New York,Mobile
+999,30,Female,LA,Desktop
+1000,26,Female,Chicago,Desktop

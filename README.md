@@ -27,6 +27,10 @@ No segmentar los esfuerzos de retención por dispositivo o canal. Priorizar inte
 
 ## 📂 Estructura del repo
 ```
+├── data/
+│   ├── cart_events.csv   # Eventos de carrito (15.000 filas)
+│   ├── customers.csv     # Clientes (1.000 filas)
+│   └── products.csv      # Catálogo de productos (400 filas)
 ├── sql/
 │   └── views.sql       # Vistas SQL sobre BigQuery (KPIs, segmentaciones, rankings)
 ├── scripts/

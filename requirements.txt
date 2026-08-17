@@ -1,0 +1,5 @@
+gspread
+google-cloud-bigquery
+google-auth
+pandas
+pyarrow

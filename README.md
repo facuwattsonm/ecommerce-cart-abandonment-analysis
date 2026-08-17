@@ -44,9 +44,7 @@ python scripts/ingest.py   # carga idempotente Google Sheets -> BigQuery (stagin
 Las vistas de `sql/views.sql` están escritas contra un dataset `Ecommerce_Cart` en BigQuery — para correrlas sobre otro proyecto, reemplazar el prefijo del dataset por el propio. `ingest.py` es una reconstrucción de referencia del pipeline original: ajustar credenciales, IDs y esquema de columnas antes de correrlo.
 
 ## 🔗 Dashboard en vivo
-[Looker Studio – E-commerce Cart Abandonment](https://datastudio.google.com/reporting/20d3024f-66d7-4f21-b5a1-c636f5eeff1a/page/p_3fw88hj95d/edit)
-
-> ⚠️ Antes de publicar: verificá que el link del dashboard esté compartido como "cualquiera con el link puede ver", no como link de edición.
+[Looker Studio – E-commerce Cart Abandonment](https://datastudio.google.com/s/uHUmk97qqkc)
 
 ---
 **Autor:** Facundo Wattson Montero · [Portfolio](https://facuwattsonm.github.io/facundo-portfolio/)

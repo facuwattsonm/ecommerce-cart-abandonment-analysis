@@ -2,7 +2,7 @@
 
 > Por qué el 50,67% de los carritos de un e-commerce se abandonan — y por qué la respuesta no es el dispositivo, el canal ni el precio, sino el tiempo de sesión.
 
-**Stack:** BigQuery · SQL · Python (Google Cloud BigQuery + gspread) · Google Sheets · Looker Studio
+**Stack:** BigQuery · SQL · Python (Google Cloud BigQuery + gspread) · Google Sheets · Data Studio
 
 ---
 
@@ -12,7 +12,7 @@ Un e-commerce con 15.000 carritos iniciados por 1.000 clientes no tenía forma d
 ## 🔍 Enfoque
 El dataset no incluía etapas de embudo (product view → checkout → pago), así que en vez de forzar un análisis de funnel inexistente, se descompuso la tasa de abandono contra 4 variables de contexto disponibles — duración de sesión, dispositivo, canal de adquisición y valor del carrito — para aislar cuál explica realmente el comportamiento.
 
-**Pipeline:** BigQuery como warehouse → vistas modeladas en SQL → dashboard de 4 páginas en Looker Studio → script en Python que automatiza la carga de datos nuevos desde Google Sheets a BigQuery de forma idempotente.
+**Pipeline:** BigQuery como warehouse → vistas modeladas en SQL → dashboard de 4 páginas en Data Studio → script en Python que automatiza la carga de datos nuevos desde Google Sheets a BigQuery de forma idempotente.
 
 ## 📊 Hallazgos clave
 - Tasa de abandono general: **50,67%** (7.600 de 15.000 carritos)
@@ -48,7 +48,7 @@ python scripts/ingest.py   # carga idempotente Google Sheets -> BigQuery (stagin
 Las vistas de `sql/views.sql` están escritas contra un dataset `Ecommerce_Cart` en BigQuery — para correrlas sobre otro proyecto, reemplazar el prefijo del dataset por el propio. `ingest.py` es una reconstrucción de referencia del pipeline original: ajustar credenciales, IDs y esquema de columnas antes de correrlo.
 
 ## 🔗 Dashboard en vivo
-[Looker Studio – E-commerce Cart Abandonment](https://datastudio.google.com/s/uHUmk97qqkc)
+[Data Studio – E-commerce Cart Abandonment](https://datastudio.google.com/s/uHUmk97qqkc)
 
 ---
 **Autor:** Facundo Wattson Montero · [Portfolio](https://facuwattsonm.github.io/facundo-portfolio/)

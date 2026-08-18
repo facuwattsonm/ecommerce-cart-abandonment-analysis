@@ -2,7 +2,7 @@
 
 > Por qué el 50,67% de los carritos de un e-commerce se abandonan — y por qué la respuesta no es el dispositivo, el canal ni el precio, sino el tiempo de sesión.
 
-**Stack:** BigQuery · SQL · Python (Google Cloud BigQuery + gspread) · Looker Studio
+**Stack:** BigQuery · SQL · Python (Google Cloud BigQuery + gspread) · Google Sheets · Looker Studio
 
 ---
 
